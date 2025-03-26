@@ -75,6 +75,7 @@
 
 Frontend 폴더에는 프론트 소스 및 빌드 포함. 모듈은 용량 관계상 삭제하였음으로, 빌드시 React와 React-bootstrap 설치가 필요합니다.  
 app.py에 모든 백엔드 기능 구현하였습니다. 추후 확장 예정입니다.
+비디오는 일단은 /server/video/video.mp4로 위치하여 합니다.
 
 ---
 
